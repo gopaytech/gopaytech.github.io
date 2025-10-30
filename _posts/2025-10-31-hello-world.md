@@ -5,6 +5,7 @@ author:
 - Clavin June
 date: 2025-10-31 00:27:00 +0700
 categories: other
+comments: true
 ---
 
 # Hello, World!
