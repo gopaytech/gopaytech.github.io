@@ -5,6 +5,7 @@ author:
 - Clavin June
 modified_date: 2025-10-31
 # categories: infrastructure sre devops cloud kubernetes observability platform-engineering
+categories: other
 ---
 
 # Hello, World!
