@@ -3,8 +3,7 @@ layout: post
 title: Hello, World!
 author:
 - Clavin June
-modified_date: 2025-10-31
-# categories: infrastructure sre devops cloud kubernetes observability platform-engineering
+date: 2025-10-31 00:27:00 +0700
 categories: other
 ---
 
