@@ -1,1 +1,0 @@
-# gopaytech.github.io
