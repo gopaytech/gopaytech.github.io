@@ -11,3 +11,13 @@ comments: true
 # Hello, World!
 
 This is the first blog post ever written in Gopaytech Engineering Blog
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello, 世界")
+}
+```
